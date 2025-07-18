@@ -23,8 +23,6 @@ Urban areas face intensified thermal stress due to rapid land-use changes and in
 
 ---
 
----
-
 ##Methodology
 
 1. **Data Acquisition**
