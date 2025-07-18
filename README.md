@@ -23,7 +23,7 @@ Urban areas face intensified thermal stress due to rapid land-use changes and in
 
 ---
 
-##Methodology
+## Methodology
 
 1. **Data Acquisition**
    - NDVI: Sentinel-2 (COPERNICUS/S2_SR_HARMONIZED)
