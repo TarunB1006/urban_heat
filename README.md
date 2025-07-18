@@ -33,9 +33,10 @@ Urban areas face intensified thermal stress due to rapid land-use changes and in
 
 2. **Coolness Score Calculation**
 
-\[
-\text{Coolness}_e = 0.35 \cdot (1 - \text{norm\_LST}) + 0.35 \cdot \text{norm\_NDVI} + 0.15 \cdot (1 - \text{norm\_NDBI}) + 0.15 \cdot \text{norm\_Wind}
-\]
+Coolness_e = 0.35 × (1 − norm_LST)
+           + 0.35 × norm_NDVI
+           + 0.15 × (1 − norm_NDBI)
+           + 0.15 × norm_Wind
 
 3. **Corridor Identification**
    - Constructs OSM-based road graph clipped to AOI
